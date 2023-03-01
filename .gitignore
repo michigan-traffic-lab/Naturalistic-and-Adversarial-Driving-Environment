@@ -1,0 +1,12 @@
+.idea/*
+.ipynb_checkpoints
+*.pyc
+*.pth
+*.csv
+*.zip
+#*.txt
+docs/_build
+*.DS_Store
+/Log
+Data
+result

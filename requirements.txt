@@ -1,0 +1,9 @@
+bidict
+gym
+numpy
+pandas
+pygame
+PyYAML
+scipy
+ipykernel
+matplotlib

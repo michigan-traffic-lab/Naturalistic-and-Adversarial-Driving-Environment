@@ -1,0 +1,8 @@
+
+# Experiment settings
+TEST_EPISODE: 500000  # Number of test to run in one worker
+epsilon_value: 0.1  # Epsilon value of the NADE algorithm.
+
+# Visualization and data logging settings
+render_flag: False
+log_out_flag: True  # Log out testing data to calculate crash rate and relative half-width.
