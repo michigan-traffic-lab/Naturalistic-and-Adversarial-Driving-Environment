@@ -37,7 +37,7 @@ def output_whole_dict(resdict):
 if __name__ == '__main__':
 
     # Load config file
-    with open('configs.yml') as file:
+    with open('config/configs.yml') as file:
         try:
             configs = yaml.safe_load(file)
         except yaml.YAMLError as exception:

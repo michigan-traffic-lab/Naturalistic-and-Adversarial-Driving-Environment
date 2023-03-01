@@ -7,7 +7,7 @@ from highway_env.vehicle.behavior import NDDVehicle  # Background vehicle
 
 # ============== Algorithm parameters ============
 # Load config file
-with open('configs.yml') as file:
+with open('config/configs.yml') as file:
     try:
         configs = yaml.safe_load(file)
     except yaml.YAMLError as exception:
