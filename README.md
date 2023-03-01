@@ -134,6 +134,8 @@ Shuo Feng (fshuo@umich.edu)
 
 ## License
 
+This project is licensed under the terms of the MIT license.
+
 ## Contact
 
 Henry Liu (henryliu@umich.edu)
