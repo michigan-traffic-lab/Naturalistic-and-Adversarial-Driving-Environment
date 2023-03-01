@@ -4,10 +4,30 @@
 
 ## Introduction
 
+### About
+
 In this repository, we provide an implementation of our research project 
 "Intelligent driving intelligence test for autonomous vehicles 
 with naturalistic and adversarial environment". More details 
 can be found in the [paper](https://www.nature.com/articles/s41467-021-21007-8).
+
+### Features
+
+Users can use this repo to evaluate AV safety performance on a three-lane highway environment.
+
+### Code Structure
+
+The structure of the code is as follows:
+
+- `NADE_main.py`: the main file to run vehicle testing simulations and generate raw testing data;
+- `NADE_core.py`: the main algorithm of NADE;
+- `CAV_agent`: the AV agents used in this study that trained by deep reinforcement learning;
+- `highway_env`: the highway environment simulator;
+- `global_val.py`: the parameters and settings used by the NADE algorithm;
+- `config`: the folder where to put config files;
+- `data`: the folder carries the static data (e.g., trained AV agent model) used in the repository;
+- `plot.ipynb`: the file to analyze testing results and plot figures.
+
 
 ## Acknowledgment
 
