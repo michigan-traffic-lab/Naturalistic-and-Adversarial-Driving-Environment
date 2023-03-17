@@ -134,7 +134,7 @@ Shuo Feng (fshuo@umich.edu)
 
 ## License
 
-This project is licensed under the terms of the MIT license.
+This project is licensed under the [PolyForm Noncommercial License 1.0.0]. Please refer to [LICENSE](https://github.com/michigan-traffic-lab/Naturalistic-and-Adversarial-Driving-Environment/blob/main/LICENSE) for more details.
 
 ## Contact
 
